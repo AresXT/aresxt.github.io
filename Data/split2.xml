@@ -1,0 +1,5 @@
+<XmlSplit>
+<!--The trial version skips the XML content that would have been written to the even numbered split files and writes this message instead.
+
+Therefore, the odd numbered files have precisely the same content as they would in the licensed version. -->
+</XmlSplit>
